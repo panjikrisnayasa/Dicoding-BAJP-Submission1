@@ -147,7 +147,7 @@ object DataDummy {
         tvShows.add(
             MovieTvShow(
                 "t1",
-                "poster_tv_arrow",
+                "poster_arrow",
                 "Arrow",
                 "65",
                 "Crime",
@@ -160,7 +160,7 @@ object DataDummy {
         tvShows.add(
             MovieTvShow(
                 "t2",
-                "poster_tv_doom_patrol",
+                "poster_doom_patrol",
                 "Doom Patrol",
                 "75",
                 "Sci-Fi",
@@ -173,7 +173,7 @@ object DataDummy {
         tvShows.add(
             MovieTvShow(
                 "t3",
-                "poster_tv_dragon_ball",
+                "poster_dragon_ball",
                 "Dragon Ball",
                 "80",
                 "Animation",
@@ -186,7 +186,7 @@ object DataDummy {
         tvShows.add(
             MovieTvShow(
                 "t4",
-                "poster_tv_fairy_tail",
+                "poster_fairy_tail",
                 "Fairy Tail",
                 "75",
                 "Animation",
@@ -199,7 +199,7 @@ object DataDummy {
         tvShows.add(
             MovieTvShow(
                 "t5",
-                "poster_tv_family_guy",
+                "poster_family_guy",
                 "Family Guy",
                 "68",
                 "Animation",
@@ -212,7 +212,7 @@ object DataDummy {
         tvShows.add(
             MovieTvShow(
                 "t6",
-                "poster_tv_flash",
+                "poster_flash",
                 "The Flash",
                 "75",
                 "Sci-Fi",
@@ -225,7 +225,7 @@ object DataDummy {
         tvShows.add(
             MovieTvShow(
                 "t7",
-                "poster_tv_got",
+                "poster_got",
                 "Game Of Thrones",
                 "83",
                 "Adventure",
@@ -238,7 +238,7 @@ object DataDummy {
         tvShows.add(
             MovieTvShow(
                 "t8",
-                "poster_tv_gotham",
+                "poster_gotham",
                 "Gotham",
                 "74",
                 "Crime",
@@ -251,7 +251,7 @@ object DataDummy {
         tvShows.add(
             MovieTvShow(
                 "t9",
-                "poster_tv_grey_anatomy",
+                "poster_grey_anatomy",
                 "Grey's Anatomy",
                 "80",
                 "Drama",
@@ -264,7 +264,7 @@ object DataDummy {
         tvShows.add(
             MovieTvShow(
                 "t10",
-                "poster_tv_hanna",
+                "poster_hanna",
                 "Hanna",
                 "74",
                 "Action",
